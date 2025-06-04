@@ -53,6 +53,10 @@ You can experience our demo showcase and achieve the same effect as shown in the
 
 <video src="assets/sampled/demo.mp4" height="500px"/>
 
+
+https://github.com/user-attachments/assets/89111b27-9dae-4dba-a2bf-2502396dfa7d
+
+
 ## Contact
 If you have any questions, please contact us via 
 - zzcnb123456@sjtu.edu.cn
