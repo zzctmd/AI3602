@@ -50,14 +50,8 @@ python app.py
 ```
 You can experience our demo showcase and achieve the same effect as shown in the video below.
 
-<video 
-  style="width: 100% !important; height: auto !important; display: block;" 
-  controls
->
-  <source src="[assets/sampled/demo.mp4](https://github.com/user-attachments/assets/89111b27-9dae-4dba-a2bf-2502396dfa7d)" type="video/mp4">
-  您的浏览器不支持视频播放。
-</video>
 
+<video src="https://github.com/user-attachments/assets/89111b27-9dae-4dba-a2bf-2502396dfa7d" controls="controls" width="500" height="300"></video>
 
 
 
