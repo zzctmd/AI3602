@@ -7,7 +7,7 @@
     <br />
     <a href="https://github.com/zzctmd"><strong>Zichen Zou</strong></a>
     &nbsp;
-    <a href="https://github.com/ccmoony"><strong>Yuanjie Chen</strong></a>
+    <a href="https://github.com/leothehuman327"><strong>Yiming Chen</strong></a>
     <br />
 </p>
 
@@ -50,15 +50,11 @@ python app.py
 ```
 You can experience our demo showcase and achieve the same effect as shown in the video below.
 
-<div align="center">
-    <video width="800" controls>
-        <source src="assets/sampled/demo.mp4" type="video/mp4">
-    </video>
-</div>
+
+<video src="assets/sampled/demo.mp4" height="500px"/>
 
 ## Contact
 If you have any questions, please contact us via 
-- cyj2003@sjtu.edu.cn
 - zzcnb123456@sjtu.edu.cn
 
 
