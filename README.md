@@ -51,7 +51,7 @@ python app.py
 You can experience our demo showcase and achieve the same effect as shown in the video below.
 
 
-<video src="https://github.com/user-attachments/assets/89111b27-9dae-4dba-a2bf-2502396dfa7d" controls="controls" width="500" height="300"></video>
+<video src="https://github.com/user-attachments/assets/89111b27-9dae-4dba-a2bf-2502396dfa7d" controls="controls" width="800" height="350"></video>
 
 
 
